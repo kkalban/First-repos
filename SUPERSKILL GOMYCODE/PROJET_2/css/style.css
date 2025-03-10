@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(219, 72, 46);
+    font-family:Georgia ;
+    text-align: center;
+    display: inline-block   ;
+}
+
+a:link {
+    color: rgb(230, 42, 151);
+}
+div:hover {
+    color: rgb(85, 27, 219);
+}
+a:active{
+    color: rgb(28, 214, 214);
+}
+nav{
+    flex: none
+    color: brown;
+
+}
+div {
+    margin: 30px;
+    width: 80%;
+}
